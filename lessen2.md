@@ -30,6 +30,10 @@
 
 Особого отличия добавления ссылок в git не наблюдаю.
 
+Однако хочу сохранить для себя полезные ссылки про git:
+* https://learngitbranching.js.org/?locale=ru_RU
+* https://github.com/sandino/Markdown-Cheatsheet#tables
+
 ## Работа с таблицами.
 
 ## Цитаты.
